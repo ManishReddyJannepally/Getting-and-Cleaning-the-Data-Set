@@ -19,4 +19,4 @@ The R script, run_analysis.R, does the following:
 --> Converts the activity and subject columns into factors and keep only those columns which reflect a mean or standard deviation
 --> Create a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
-CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data..
